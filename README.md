@@ -1,4 +1,4 @@
-# House Rent Management System
+# RentoWise: Management System
 
 ## Project Objectives
 
